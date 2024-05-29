@@ -1,0 +1,1 @@
+This website uses openweathermap weather APIs. First API accepts current latitude and logitude as parameter and gives weather information according to that. Second API accepts city name as parameter and gives weather information according to that.
